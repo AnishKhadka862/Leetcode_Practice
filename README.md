@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,4 +48,16 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
