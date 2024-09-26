@@ -9,6 +9,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -19,6 +20,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -66,4 +68,8 @@
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
