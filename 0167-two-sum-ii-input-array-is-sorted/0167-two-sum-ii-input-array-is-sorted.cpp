@@ -3,13 +3,11 @@ public:
     vector<int> twoSum(vector<int>& numbers, int target) {
         unordered_map <int, int> mymap;
         for (int i = 0; i < numbers.size(); ++i){
-            mymap[numbers[i]] = i;
-        }
-        for (int j = 0; j < numbers.size(); ++j){
-            int comp = target - numbers[j];
+            int comp = target - numbers[i];
             if (mymap.find(comp) != mymap.end()){
-                return {j + 1 , mymap[comp] + 1};
+                return { mymap[comp] + 1, i + 1 };
             }
+            mymap[numbers[i]] = i;
         }
         return {};
     }
