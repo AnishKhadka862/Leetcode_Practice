@@ -75,4 +75,12 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
