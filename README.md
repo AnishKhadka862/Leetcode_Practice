@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 | [0383-ransom-note](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
@@ -83,4 +84,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
