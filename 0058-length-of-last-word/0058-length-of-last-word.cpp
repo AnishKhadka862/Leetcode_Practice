@@ -10,7 +10,7 @@ public:
 
         while (i >= 0 && !isspace(s[i])) {
             count++;
-            i--;
+            --i;
         }
 
         return count;
