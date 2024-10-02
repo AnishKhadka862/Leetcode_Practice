@@ -54,6 +54,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [0383-ransom-note](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
