@@ -5,12 +5,12 @@ public:
         int count = 0;
 
         while (i >= 0 && isspace(s[i])) {
-            i -= 1;
+            --i;
         }
 
         while (i >= 0 && !isspace(s[i])) {
             count++;
-            i -= 1;
+            --i;
         }
 
         return count;
