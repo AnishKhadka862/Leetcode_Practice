@@ -20,11 +20,6 @@ public:
                 return false;
             }
         }
-        if (mymap.empty()){
-        return true;
-        }
-        else{
-            return false;
-        }
+        return mymap.empty();
     }
 };
