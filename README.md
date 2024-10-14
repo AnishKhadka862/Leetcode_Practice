@@ -101,8 +101,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0155-min-stack) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0013-roman-to-integer) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
