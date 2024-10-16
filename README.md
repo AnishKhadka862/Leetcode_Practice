@@ -75,6 +75,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0222-count-complete-tree-nodes) |
 ## Sliding Window
 |  |
 | ------- |
@@ -117,6 +118,7 @@
 | [0101-symmetric-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
@@ -141,5 +143,10 @@
 | [0101-symmetric-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0112-path-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
