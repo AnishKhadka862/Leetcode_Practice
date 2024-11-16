@@ -69,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0392-is-subsequence) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -114,6 +115,7 @@
 | [0009-palindrome-number](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0067-add-binary) |
+| [1146-greatest-common-divisor-of-strings](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Design
 |  |
 | ------- |
