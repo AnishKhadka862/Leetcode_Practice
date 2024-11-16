@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0605-can-place-flowers](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
 |  |
@@ -96,6 +97,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
 | ------- |
