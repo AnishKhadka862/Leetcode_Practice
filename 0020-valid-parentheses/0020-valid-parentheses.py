@@ -2,7 +2,7 @@ class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
         for brac in s:
-            if brac == '(' or brac == '{' or brac == '[':
+            if brac in '({[':
                 stack.append(brac)
             elif brac == ')' and stack and stack[-1] == '(':
                 stack.pop()
@@ -13,4 +13,4 @@ class Solution:
             else:
                 return False
 
-        return len(stack) == 0
+        return  True if len(stack) == 0 else False
