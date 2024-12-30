@@ -19,6 +19,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0283-move-zeroes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Two Pointers
@@ -33,6 +34,7 @@
 | [0141-linked-list-cycle](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0392-is-subsequence) |
