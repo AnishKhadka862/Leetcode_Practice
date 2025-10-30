@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0283-move-zeroes) |
 | [0605-can-place-flowers](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0605-can-place-flowers) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -58,6 +59,7 @@
 | [0169-majority-element](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0383-ransom-note) |
 ## Divide and Conquer
@@ -105,6 +107,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0219-contains-duplicate-ii](https://github.com/AnishKhadka862/Leetcode_Practice/tree/master/0219-contains-duplicate-ii) |
 ## Prefix Sum
 |  |
 | ------- |
