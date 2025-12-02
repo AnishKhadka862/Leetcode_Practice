@@ -1,11 +1,22 @@
-class Solution:
-    def longestCommonPrefix(self, strs: List[str]) -> str:
-        if not strs:
-            return ""
-        prefix = strs[0]
-        for i in strs[1:]:
-            while not i.startswith(prefix):
-                prefix = prefix[:-1]
-                if not prefix:
-                    return ""
-        return prefix
+#include <vector>
+#include <string>
+using namespace std;
+
+class Solution {
+public:
+    string longestCommonPrefix(vector<string>& strs) {
+        if (strs.empty()) return "";
+
+        string prefix = strs[0];
+
+        for (int i = 1; i < strs.size(); i++) {
+            // Reduce prefix until it matches the beginning of strs[i]
+            while (strs[i].find(prefix) != 0) {
+                prefix = prefix.substr(0, prefix.size() - 1);
+                if (prefix.empty()) return "";
+            }
+        }
+
+        return prefix;
+    }
+};
